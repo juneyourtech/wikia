@@ -2,7 +2,7 @@
 // @name        Wikia AVP Rez
 // @namespace   wikia_avp_rez
 // @description Set appearance for smaller resolutions (less than 1024px width).
-// @updateURL https://github.com/juneyourtech/GM_Wikia/raw/master/wika_rez.user.js
+// @updateURL https://github.com/juneyourtech/wikia/raw/master/wikia_rez.user.js
 // @include     *.wikia.com/wiki/*
 // @include     *.fandom.com/wiki/*
 // @version     0.2
