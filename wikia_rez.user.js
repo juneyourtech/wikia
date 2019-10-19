@@ -1,11 +1,11 @@
 ﻿// ==UserScript==
-// @name        Wikia AVP Rez
-// @namespace   wikia_avp_rez
-// @description Set appearance for smaller resolutions (less than 1024px width).
+// @name        Wikia Rez
+// @namespace   wikia_rez
+// @description Set appearance for smaller resolutions (less than 1024px width). This mostly affects only Fandom code.
 // @updateURL https://github.com/juneyourtech/wikia/raw/master/wikia_rez.user.js
 // @include     *.wikia.com/wiki/*
 // @include     *.fandom.com/wiki/*
-// @version     0.2
+// @version     0.2.1
 // @grant       GM_addStyle
 // ==/UserScript==
 /* 4567890123456789023456789012345678901234567890123456789012345678901234567 */
